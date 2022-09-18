@@ -1,0 +1,13 @@
+ol{
+list-style-type:decimal-leading-zero;
+list-style-position:outside;
+list-style-image:url("C:\Users\TAMIL SELVAN\Desktop\html\RE bike.jpeg");
+}
+ul{
+list-style-type:square;
+list-style-position:inside;
+}
+div{
+background-color:yellow;
+color:red;
+}

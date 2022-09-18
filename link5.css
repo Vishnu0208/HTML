@@ -1,0 +1,15 @@
+div{
+    padding:30px;
+}
+a:link{
+    color:yellow;
+}
+a:visited{
+    color:red;
+}
+a:active{
+    color:green;
+}
+a:hover{
+    color:deeppink;
+}

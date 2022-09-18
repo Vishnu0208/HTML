@@ -1,0 +1,19 @@
+h1
+{
+background-color:blue;
+}
+h2
+{
+background-color:green;
+}
+p
+{
+background-color:yellow;
+}
+body
+{
+background-image:url("./RE bike.jpeg");
+background-repeat:no repeat;
+background-size:cover;
+background-position:center;
+}
